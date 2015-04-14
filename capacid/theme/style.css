@@ -161,3 +161,25 @@ body {
 .reveal li{
   list-style: none;
 }
+
+.reveal blockquote{
+  width: 80%;
+  margin: 0 auto;
+}
+
+.reveal blockquote p{
+  text-align: left;
+  font-size: 0.6em;
+  line-height: 1.6em;
+}
+
+.reveal ul,
+.reveal li,
+.reveal ol{
+  width: 80%;
+  text-align: left;
+  list-style: disc;
+  font-size: 0.8em;
+  line-height: 1.6em;
+  margin: 0 auto;
+}
