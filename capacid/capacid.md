@@ -50,7 +50,7 @@ imazine@company100
 ## 뭔가 이상하다
 - Network 상의 Distuributed 상황에서 P 가 보장되어도 CA를 모두 충족할 수 있는가?
 
-## 수전된 사항
+## 수정된 사항
 - Partition tolerance : The network will be allowed to lose arbitrarily many messages sent from one node to another
 - CAP 세 가지 조건을 모두 만족하는 분산 컴퓨터 시스템이 존재하지 않음을 증명한 정리이다.
 
