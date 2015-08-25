@@ -40,11 +40,6 @@ npm install --save-dev gulp gulp-livereload
 var gulp = require('gulp'),
     livereload = require('gulp-livereload');
 
-gulp.task('reload', function () {
-    gulp.src('*.*')
-    .pipe(livereload());
-});
-
 gulp.task('watch', function () {
     livereload.listen();
 
