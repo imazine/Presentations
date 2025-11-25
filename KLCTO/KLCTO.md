@@ -11,7 +11,6 @@
 - CTO under 10
 - CTO over 10
 - CTO over 100
-- CTO over 1000
 
 ## TECHNICAL FUNDAMENTALS
 - TypeScript 
