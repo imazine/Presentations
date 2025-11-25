@@ -43,11 +43,11 @@
     - SEO Automation
 ### 2Q ~ 3Q
     - Improve Contents Mesh
-    - Prepare Enriched commnets
-    - Prepare Personalized contents recommendations 
+    - Prepare Enriched Commnets
+    - Prepare Personalized Contents Recommendations 
 ### 4Q
-    - Serve enriched comments
-    - Serve Personalized contents recommendations  
+    - Serve Enriched Comments
+    - Serve Personalized Contents Recommendations  
 
 ## THANK YOU
 
