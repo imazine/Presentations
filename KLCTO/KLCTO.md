@@ -1,98 +1,54 @@
-# The TOOLs `for` Front-end
+# 키노라이츠 CTO Candidate
+- IRHO PARK
+- `aka. imazine`
 
-## SPEAKER
+## INTRODUCE
+- Generalist
+- Formless
+- Strategist
 
-- iMaZiNe
-- `aka. Irho Park`
-- GSSHOP IT Innovation Center
+## ASPECT of CTO
+- CTO under 10
+- CTO over 10
+- CTO over 100
+- CTO over 1000
 
-# THE GEEK
-`AS YOU KNOW`
+## TECHNICAL FUNDAMENTALS
+- TypeScript 
+- `Node.js, Nest.js, React.js`
+- Frontend 2, Backend 2
+- Organizer of [PlayNode](http://playnode.io/2017/) from 2012
 
-## FIRST AGENDA
-`Live-reload`
+## INTANGIBLE ASSETS
+- Conditional 1M / MAU (w. SEO)
+- Self binded reactions
+- Sustainable Contents Crawler
 
-## Simple LOGICS
-Watch [`File changes`] -> [`Socket`] -> [`Browser`]
+## TANGIBLE ASSETS `with` TECHNOLOGY
+- Contents Mesh
+- Personalized Contents
+- Enriched Comments
+(eg. [TwelveLabs Search](https://www.twelvelabs.io/ko/product/product-overview))
 
-## HOW IT WORKS
-**DEMO**
+## HOW to go TANGIBLE 
+- Organization Reliability
+    - Rearrange, Hirering
+- Separate by vantage point
+- Efficiency and Velocity 
+- Prepare next steps
 
-# INSTALLATION
-- Yeah!!
+## ACTION PLANS
+### 1Q 
+    - Improve organization reliability
+    - Define Technical Fundamentals
+    - SEO Automation
+### 2Q ~ 3Q
+    - Improve Contents Mesh
+    - Prepare Enriched commnets
+    - Prepare Personalized contents recommendations 
+### 4Q
+    - Serve enriched comments
+    - Serve Personalized contents recommendations  
 
-## with OFFICIAL App
+## THANK YOU
 
-- Windows [[Download]](http://download.livereload.com/windows/LiveReloadSetup.exe)
-- OSX [[AppStore]](http://itunes.apple.com/us/app/livereload/id482898991?mt=12)
-- Linux [[guard-livereload]](https://github.com/guard/guard-livereload)
-
-## with GULP.js
-First of all, we need [node.js!](https://nodejs.org/download/)
-
-## Install gulpjs and plugins
-```
-npm install --save-dev gulp gulp-livereload
-```
-
-# Make gulpfile.js
-```
-var gulp = require('gulp'),
-    livereload = require('gulp-livereload');
-
-gulp.task('watch', function () {
-    livereload.listen();
-
-    gulp.watch('**/*.css', function (file) {
-        livereload.changed(file);
-    });
-
-    gulp.watch('**/*.js', function (file) {
-        livereload.changed(file);
-    });
-
-    gulp.watch('**/*.html', function (file) {
-        livereload.changed(file);
-    });
-});
-```
-
-## EXECUTE with gulp
-```
-> gulp watch
-```
-
-## COMPLEXED?
-> Don't worry about it.
-
-- Download and install [[NodeJS]](https://nodejs.org/download/)
-- Download and unzip to your location [[This File]]()
-```
-Just type two line
-> npm install
-> gulp watch
-```
-
-# INSTALL BROWSER [EXTENSIONS](http://livereload.com/extensions/)
-
-- [Chrome](https://chrome.google.com/webstore/detail/livereload/jnihajbhpnppcggbcgedagnkighmdlei)
-- [Firefox](https://addons.mozilla.org/ko/firefox/addon/livereload/)
-- [Safari](http://download.livereload.com/2.1.0/LiveReload-2.1.0.safariextz)
-
-## ENJOY development!
-
-## One more Tips...
-
-## Editor Plugins
-
-- Beautyifier
-- Formatter
-- Emmet(ZenCode)
-- Linters
-  - JSHint
-  - CSSLint
-
-## PLUGIN DEMO
-
-## THANKS
-Question & Answer
